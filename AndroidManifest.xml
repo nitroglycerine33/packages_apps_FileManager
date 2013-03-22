@@ -18,7 +18,7 @@
     package="org.openintents.cmfilemanager"
     android:installLocation="auto"
 	android:versionName="1.1.4"
-	android:versionCode="14">
+	android:versionCode="16">
 	<!-- History: 
 	 * * * UPDATE ATRACKDOG METADATA BELOW FOR RELEASE CANDIDATES * * *
 	[14] 1.1.4 :2011-02-05
